@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.router-link-exact-active {
+    --tw-border-opacity: 0;
+    background-color: hsl(var(--bc) / var(--tw-bg-opacity));
+    --tw-bg-opacity: 0.2;
+}

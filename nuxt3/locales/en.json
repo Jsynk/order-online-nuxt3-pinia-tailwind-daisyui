@@ -1,0 +1,4 @@
+{
+    "hello": "Hello, {name}!",
+    "FooterText": "Page is Static Site Generated(SSG) with Nuxt 3, Tailwind, daisyUI. "
+}

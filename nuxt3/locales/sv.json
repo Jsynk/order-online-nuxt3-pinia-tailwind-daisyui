@@ -1,0 +1,4 @@
+{
+    "hello": "Hallå, {name}!",
+    "FooterText": "Sidan är Statiskt Sid Generarad(SSG) med Nuxt 3, Tailwind, daisyUI."
+}
